@@ -1,4 +1,32 @@
 [
+    {
+        "id": "plan9",
+        "title": "Plan 9 from Outer Space",
+        "year": "1959",
+        "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Plan_nine_from_outer_space.jpg",
+        "videoUrl": "https://archive.org/download/plan-9-from-outer-space-1959/Plan%209%20From%20Outer%20Space%20%281959%29.ia.mp4"
+    },
+    {
+        "id": "littleshop",
+        "title": "The Little Shop of Horrors",
+        "year": "1960",
+        "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Little_Shop_of_Horrors_%281960%29_-_Half-Sheet_poster.webp",
+        "videoUrl": "https://ia800503.us.archive.org/8/items/TheLittleShopOfHorrors1960_765/TheLittleShopOfHorrors1960.mp4"
+    },
+    {
+        "id": "carnival",
+        "title": "Carnival of Souls",
+        "year": "1962",
+        "poster": "",
+        "videoUrl": ""
+    },
+    {
+        "id": "lastman",
+        "title": "The Last Man on Earth",
+        "year": "1964",
+        "poster": "",
+        "videoUrl": ""
+    },
   {
     "Id": "",
     "title": "Night of the Living Dead",
