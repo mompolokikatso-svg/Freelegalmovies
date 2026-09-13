@@ -1,7 +1,7 @@
 export default {
   async fetch(request) {
     const url =
-      "https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-REPOSITORY/main/movies.json";
+      "https://raw.githubusercontent.com/mompolokikatso-svg/Freelegalmovies/main/movies.json";
 
     const response = await fetch(url);
 
