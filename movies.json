@@ -33,7 +33,7 @@
     "year": 1968,
     "genre": "Horror",
     "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Night_of_the_Living_Dead_(1968)_Title_Screen.png",
-    "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Night_of_the_Living_Dead_(1968).webm"
+    "videoUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Night_of_the_Living_Dead_(1968).webm"
   },
   {
     "Id": "",
@@ -41,7 +41,7 @@
     "year": 1940,
     "genre": "Comedy",
     "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/His_Girl_Friday_(1940)_poster.jpg",
-    "url": "https://archive.org/details/his-girl-friday-1940"
+    "videoUrl": "https://archive.org/details/his-girl-friday-1940"
   },
   {
     "Id": "",
@@ -49,7 +49,7 @@
     "year": 1926,
     "genre": "Comedy",
     "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_General_(1926)_poster.jpg",
-    "url": "https://archive.org/details/the-general-1926"
+    "videoUrl": "https://archive.org/details/the-general-1926"
   },
   {
     "Id": "",
@@ -57,7 +57,7 @@
     "year": 1945,
     "genre": "Film Noir",
     "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Detour_(1945)_poster.jpg",
-    "url": "https://archive.org/details/detour-1945"
+    "videoUrl": "https://archive.org/details/detour-1945"
   },
   {
     "Id": "",
@@ -65,7 +65,7 @@
     "year": 1963,
     "genre": "Mystery / Romance",
     "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Charade_(1963_film)_poster.jpg",
-    "url": "https://archive.org/details/charade-1963"
+    "videoUrl": "https://archive.org/details/charade-1963"
   },
   {
     "Id": "",
@@ -73,7 +73,7 @@
     "year": 1960,
     "genre": "Horror / Comedy",
     "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Little_Shop_of_Horrors_(1960)_poster.jpg",
-    "url": "https://archive.org/details/the-little-shop-of-horrors-1960"
+    "videoUrl": "https://archive.org/details/the-little-shop-of-horrors-1960"
   },
   {
     "Id": "",
@@ -81,7 +81,7 @@
     "year": 1962,
     "genre": "Horror",
     "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Carnival_of_Souls_(1962)_poster.jpg",
-    "url": "https://archive.org/details/carnival-of-souls-1962"
+    "videoUrl": "https://archive.org/details/carnival-of-souls-1962"
   },
   {
     "Id": "",
@@ -89,7 +89,7 @@
     "year": 1946,
     "genre": "Mystery / Film Noir",
     "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Stranger_(1946)_poster.jpg",
-    "url": "https://archive.org/details/the-stranger-1946"
+    "videoUrl": "https://archive.org/details/the-stranger-1946"
   },
   {
     "Id": "",
@@ -97,7 +97,7 @@
     "year": 1945,
     "genre": "Crime / Film Noir",
     "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Scarlet_Street_(1945)_poster.jpg",
-    "url": "https://archive.org/details/scarlet-street-1945"
+    "videoUrl": "https://archive.org/details/scarlet-street-1945"
   },
   {
     "Id": "",
@@ -105,7 +105,7 @@
     "year": 1953,
     "genre": "Crime / Thriller",
     "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Hitch-Hiker_(1953)_poster.jpg",
-    "url": "https://archive.org/details/the-hitch-hiker-1953"
+    "videoUrl": "https://archive.org/details/the-hitch-hiker-1953"
   },
   {
     "Id": "",
@@ -113,7 +113,7 @@
     "year": 1954,
     "genre": "Crime / Thriller",
     "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Suddenly_(1954_film)_poster.jpg",
-    "url": "https://archive.org/details/suddenly-1954"
+    "videoUrl": "https://archive.org/details/suddenly-1954"
   },
   {
     "Id": "",
@@ -121,7 +121,7 @@
     "year": 1959,
     "genre": "Mystery / Horror",
     "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Bat_(1959_film)_poster.jpg",
-    "url": "https://archive.org/details/the-bat-1959"
+    "videoUrl": "https://archive.org/details/the-bat-1959"
   },
   {
     "Id": "",
@@ -129,7 +129,7 @@
     "year": 1959,
     "genre": "Horror / Comedy",
     "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/A_Bucket_of_Blood_(1959)_poster.jpg",
-    "url": "https://archive.org/details/a-bucket-of-blood-1959"
+    "videoUrl": "https://archive.org/details/a-bucket-of-blood-1959"
   },
   {
     "Id": "",
@@ -137,7 +137,7 @@
     "year": 1959,
     "genre": "Sci-Fi / Horror",
     "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Teenagers_from_Outer_Space_poster.jpg",
-    "url": "https://archive.org/details/teenagers-from-outer-space-1959"
+    "videoUrl": "https://archive.org/details/teenagers-from-outer-space-1959"
   },
   {
     "Id": "",
@@ -145,7 +145,7 @@
     "year": 1962,
     "genre": "Horror / Sci-Fi",
     "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Brain_That_Wouldn't_Die_poster.jpg",
-    "url": "https://archive.org/details/the-brain-that-wouldnt-die-1962"
+    "videoUrl": "https://archive.org/details/the-brain-that-wouldnt-die-1962"
   },
   {
     "Id": "",
@@ -153,7 +153,7 @@
     "year": 1964,
     "genre": "Horror / Sci-Fi",
     "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Last_Man_on_Earth_(1964)_poster.jpg",
-    "url": "https://archive.org/details/the-last-man-on-earth-1964"
+    "videoUrl": "https://archive.org/details/the-last-man-on-earth-1964"
   },
   {
     "Id": "",
@@ -161,7 +161,7 @@
     "year": 1948,
     "genre": "Mystery / Horror",
     "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Amazing_Mr._X_(1948)_poster.jpg",
-    "url": "https://archive.org/details/the-amazing-mr-x-1948"
+    "videoUrl": "https://archive.org/details/the-amazing-mr-x-1948"
   },
   {
     "Id": "",
@@ -169,7 +169,7 @@
     "year": 1920,
     "genre": "Comedy",
     "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/One_Week_(1920)_poster.jpg",
-    "url": "https://archive.org/details/one-week-1920"
+    "videoUrl": "https://archive.org/details/one-week-1920"
   },
   {
     "Id": "",
@@ -177,7 +177,7 @@
     "year": 1928,
     "genre": "Comedy",
     "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Steamboat_Bill_Jr._poster.jpg",
-    "url": "https://archive.org/details/steamboat-bill-jr-1928"
+    "videoUrl": "https://archive.org/details/steamboat-bill-jr-1928"
   },
   {
     "Id": "",
@@ -185,6 +185,6 @@
     "year": 1922,
     "genre": "Horror",
     "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Nosferatu1922poster.jpg",
-    "url": "https://archive.org/details/nosferatu-1922"
+    "videoUrl": "https://archive.org/details/nosferatu-1922"
   }
 ]
