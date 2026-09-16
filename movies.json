@@ -1,40 +1,221 @@
 [
-{
-"id": "plan9",
-"title": "Plan 9 from Outer Space",
-"year": "1959",
-"poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Plan_nine_from_outer_space.jpg",
-"videoUrl": "https://archive.org/download/plan-9-from-outer-space-1959/Plan%209%20From%20Outer%20Space%20%281959%29.ia.mp4"
-},
-{
-"id": "Aashiqui-2",
-"title": "Aashiqui 2",
-"year": "2013",
-"poster": "https://upload.wikimedia.org/wikipedia/en/f/f3/Aashiqui_2_%28Poster%29.jpg",
-"videoUrl": "https://dn720702.ca.archive.org/0/items/aashiqui-2-2013-dv-drip-x-264-mp-4...-hon-3y/Aashiqui%202%202013%20DvDRip%20x264%20MP4...Hon3y.mp4"
-},
-{
-"id": "killer",
-"title": "The Killer",
-"year": "2006",
-"poster": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d2/The_Killer_poster.jpg/960px-The_Killer_poster.jpg",
-"videoUrl": "https://dn801203.us.archive.org/0/items/the-killer-2006-dv-drip-x-264...-hon-3y/The%20Killer%202006%20DvDrip%20x264...Hon3y.mp4?cnt=0"
-},
-{
-"id": "magick-sword",
-"title": "The Magic Sword",
-"year": "1962",
-"poster": "https://image.tmdb.org/t/p/w500/mVivlmUdyUwqSBnQkSzX3TLduky.jpg",
-"videoUrl": "https://archivewatch.org/item/TheMagicSwordWidescreenQualityUpgrade.mp4"
-},
-{
-"id": "littleshop",
-"title": "The Little Shop of Horrors",
-"year": "1960",
-"poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Little_Shop_of_Horrors_%281960%29_-Half-Sheet_poster.webp",
-"videoUrl": "https://ia800503.us.archive.org/8/items/TheLittleShopOfHorrors1960_765/TheLittleShopOfHorrors1960.mp4"
-},
-{
+  {
+    "id": "plan9",
+    "title": "Plan 9 from Outer Space",
+    "year": "1959",
+    "genre": "Sci-Fi / Horror",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Plan_nine_from_outer_space.jpg",
+    "videoUrl": "https://archive.org/download/plan-9-from-outer-space-1959/Plan%209%20From%20Outer%20Space%20%281959%29.ia.mp4"
+  },
+  {
+    "id": "Aashiqui-2",
+    "title": "Aashiqui 2",
+    "year": "2013",
+    "genre": "Romance / Drama",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/f3/Aashiqui_2_%28Poster%29.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "killer",
+    "title": "The Killer",
+    "year": "2006",
+    "genre": "Action / Thriller",
+    "poster": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d2/The_Killer_poster.jpg/960px-The_Killer_poster.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "magick-sword",
+    "title": "The Magic Sword",
+    "year": "1962",
+    "genre": "Fantasy / Adventure",
+    "poster": "https://image.tmdb.org/t/p/w500/mVivlmUdyUwqSBnQkSzX3TLduky.jpg",
+    "videoUrl": "https://archivewatch.org/item/TheMagicSwordWidescreenQualityUpgrade.mp4"
+  },
+  {
+    "id": "littleshop",
+    "title": "The Little Shop of Horrors",
+    "year": "1960",
+    "genre": "Horror / Comedy",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Little_Shop_of_Horrors_%281960%29_-Half-Sheet_poster.webp",
+    "videoUrl": "https://ia800503.us.archive.org/8/items/TheLittleShopOfHorrors1960_765/TheLittleShopOfHorrors1960.mp4"
+  },
+  {
+    "id": "carnival",
+    "title": "Carnival of Souls",
+    "year": "1962",
+    "genre": "Horror",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Carnival_of_Souls(1962)poster.jpg",
+    "videoUrl": "https://ia600301.us.archive.org/8/items/CarnivalofSouls/CarnivalOfSouls_512kb.mp4"
+  },
+  {
+    "id": "lastman",
+    "title": "The Last Man on Earth",
+    "year": "1964",
+    "genre": "Horror / Sci-Fi",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Last_Man_on_Earth(1964)poster.jpg",
+    "videoUrl": "https://archive.org/download/LASTMANONEARTH1964720pFullMovie/LAST%20MAN%20ON%20EARTH%20(1964%2C%20720p)%20-%20Full%20Movie.mp4"
+  },
+  {
+    "id": "night-of-the-living-dead",
+    "title": "Night of the Living Dead",
+    "year": "1968",
+    "genre": "Horror",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Night_of_the_Living_Dead(1968)Title_Screen.png",
+    "videoUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Night_of_the_Living_Dead(1968).webm"
+  },
+  {
+    "id": "his-girl-friday",
+    "title": "His Girl Friday",
+    "year": "1940",
+    "genre": "Comedy / Romance / Crime",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/His_Girl_Friday_(1940)poster.jpg",
+    "videoUrl": "https://archive.org/download/his_girl_friday/his_girl_friday_512kb.mp4"
+  },
+  {
+    "id": "the-general",
+    "title": "The General",
+    "year": "1926",
+    "genre": "Comedy / War / Romance",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_General(1926)poster.jpg",
+    "videoUrl": "https://archive.org/download/TheGeneral/The%20General%20%281926%29.mp4"
+  },
+  {
+    "id": "detour",
+    "title": "Detour",
+    "year": "1945",
+    "genre": "Film Noir / Crime",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Detour(1945)poster.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "charade",
+    "title": "Charade",
+    "year": "1963",
+    "genre": "Mystery / Romance",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Charade(1963_film)poster.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "little-shop-of-horrors-1960",
+    "title": "The Little Shop of Horrors",
+    "year": "1960",
+    "genre": "Horror / Comedy",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Little_Shop_of_Horrors(1960)poster.jpg",
+    "videoUrl": "https://ia800503.us.archive.org/8/items/TheLittleShopOfHorrors1960_765/TheLittleShopOfHorrors1960.mp4"
+  },
+  {
+    "id": "carnival-of-souls-1962",
+    "title": "Carnival of Souls",
+    "year": "1962",
+    "genre": "Horror",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Carnival_of_Souls(1962)poster.jpg",
+    "videoUrl": "https://ia600301.us.archive.org/8/items/CarnivalofSouls/CarnivalOfSouls_512kb.mp4"
+  },
+  {
+    "id": "the-stranger",
+    "title": "The Stranger",
+    "year": "1946",
+    "genre": "Mystery / Film Noir",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Stranger(1946)poster.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "scarlet-street",
+    "title": "Scarlet Street",
+    "year": "1945",
+    "genre": "Crime / Film Noir",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Scarlet_Street(1945)poster.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "the-hitch-hiker",
+    "title": "The Hitch-Hiker",
+    "year": "1953",
+    "genre": "Crime / Thriller",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Hitch-Hiker(1953)poster.jpg",
+    "videoUrl": "https://archive.org/download/the-hitch-hiker-1953_202510/The%20Hitch-Hiker%20%281953%29/The%20Hitch-Hiker%20-%201953.mp4"
+  },
+  {
+    "id": "suddenly",
+    "title": "Suddenly",
+    "year": "1954",
+    "genre": "Crime / Thriller",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Suddenly(1954_film)poster.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "the-bat",
+    "title": "The Bat",
+    "year": "1959",
+    "genre": "Mystery / Horror",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Bat(1959_film)poster.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "a-bucket-of-blood",
+    "title": "A Bucket of Blood",
+    "year": "1959",
+    "genre": "Horror / Comedy",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/A_Bucket_of_Blood(1959)poster.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "teenagers-from-outer-space",
+    "title": "Teenagers from Outer Space",
+    "year": "1959",
+    "genre": "Sci-Fi / Horror",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Teenagers_from_Outer_Space_poster.jpg",
+    "videoUrl": "https://archive.org/download/teenagers_from_outerspace/Teenagers_from_Outer_Space_512kb.mp4"
+  },
+  {
+    "id": "the-brain-that-wouldnt-die",
+    "title": "The Brain That Wouldn't Die",
+    "year": "1962",
+    "genre": "Horror / Sci-Fi",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Brain_That_Wouldn't_Die_poster.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "the-last-man-on-earth",
+    "title": "The Last Man on Earth",
+    "year": "1964",
+    "genre": "Horror / Sci-Fi",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Last_Man_on_Earth(1964)_poster.jpg",
+    "videoUrl": "https://archive.org/download/LASTMANONEARTH1964720pFullMovie/LAST%20MAN%20ON%20EARTH%20(1964%2C%20720p)%20-%20Full%20Movie.mp4"
+  },
+  {
+    "id": "the-amazing-mr-x",
+    "title": "The Amazing Mr. X",
+    "year": "1948",
+    "genre": "Mystery / Film Noir",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Amazing_Mr.X(1948)poster.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "one-week",
+    "title": "One Week",
+    "year": "1920",
+    "genre": "Comedy",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/One_Week(1920)_poster.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "steamboat-bill-jr",
+    "title": "Steamboat Bill Jr.",
+    "year": "1928",
+    "genre": "Comedy",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Steamboat_Bill_Jr._poster.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "nosferatu",
+    "title": "Nosferatu",
+    "year": "1922",
+    "genre": "Horror",
+    "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Nosferatu1922poster.jpg",
+    "videoUrl": null
+  }
+]{
 "id": "carnival",
 "title": "Carnival of Souls",
 "year": "1962",
