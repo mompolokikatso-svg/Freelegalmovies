@@ -10,9 +10,11 @@
   {
   "id": "your-name",
   "title": "Your Name English dub",
-  "poster": "https://image.tmdb.org/t/p/original/vfJFJPepRKapMd5G2ro7klIRysq.jpg",
+  "year": "2016",
+  "genre": "Animation / Romance / Drama",
+  "poster": "https://image.tmdb.org/t/p/w500/vfJFJPepRKapMd5G2ro7klIRysq.jpg",
   "videoUrl": "https://dn600304.us.archive.org/0/items/st23_kimi-no-na-wa-dub-episode-dub/st23_kimi-no-na-wa-dub-episode-dub.mp4"
-},
+  },
   {
     "id": "Aashiqui-2",
     "title": "Aashiqui 2",
